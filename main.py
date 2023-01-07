@@ -31,7 +31,7 @@ def get_price():
     #json is format of API data
     return btc_price
 
-#to send price to CoinMarketCap website
+#to send price in telegram from bot
 def send_update(chat_id,msg):
     url= f'https://api.telegram.org/bot{bot_key}/sendMessage?chat_id={chat_id}&text={msg}'
     requests.get(url)
