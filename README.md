@@ -1,6 +1,6 @@
 # bitcoin-reporter
 
-A small project with Python is a Telegram bot that tells me the price of Bitcoin when its price is less than the price I set
+A small project with Python is a Telegram bot that tells me the price of Bitcoin when its price is less than the price I set.
 
 .print price in console
 ![Screenshot (806)](https://user-images.githubusercontent.com/108232157/211128302-dd50dfb8-17a9-4806-afd6-7a0ded02c5e5.png)
